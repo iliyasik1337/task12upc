@@ -1,3 +1,4 @@
+# Финальная версия для проверки
 from ecosystem import Ecosystem
 from organism import Animal
 
